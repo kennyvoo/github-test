@@ -14,7 +14,7 @@ git commit -m "Added helper function"
 git push --set-upstream origin feature-1
 ```
 
-###Part 2 : Test on git merge
+### Part 2 : Test on git merge
 ```bash
 git checkout main
 git checkout -b feature-2
@@ -29,7 +29,7 @@ git push --set-upstream origin feature-2
 git pull origin feature-2:feature-2
 ```
 
-###Part 3 : Test on git rebase
+### Part 3 : Test on git rebase
 ```bash
 git checkout main
 git checkout -b feature-2
